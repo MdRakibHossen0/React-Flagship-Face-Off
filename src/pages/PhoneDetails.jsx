@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const PhoneDetails = () => {
     return <div>PhoneDetails</div>;
 };

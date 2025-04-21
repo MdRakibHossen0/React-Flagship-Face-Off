@@ -1,11 +1,8 @@
 import React from 'react';
 
+
 const PhonesContainer = () => {
-    return (
-        <div>
-            Phone Container
-        </div>
-    );
+    return <div>PhonesContainer</div>;
 };
 
 export default PhonesContainer;
